@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -107,7 +107,8 @@
       <updated>1634104129867</updated>
       <workItem from="1634104163856" duration="7043000" />
       <workItem from="1634115662791" duration="581000" />
-      <workItem from="1634116257291" duration="338000" />
+      <workItem from="1634116257291" duration="651000" />
+      <workItem from="1634116934782" duration="602000" />
     </task>
     <servers />
   </component>
